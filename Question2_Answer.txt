@@ -1,4 +1,4 @@
 Question: "What happened when you send message from client in Multicast UDP when server is not available?"
 
 Answer: When server goes down or is not available, there is no acknowledgement sent to the clients.
-Also the clients are able to cmmunicate with other clients even when the server is down.
+Also the clients are able to communicate with other clients even when the server is down.
